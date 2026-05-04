@@ -1,5 +1,5 @@
 {
   "latest_version": "0.1.1-beta",
-  "download_url": "https://cdn.discordapp.com/attachments/1500524564357316699/1500794461423407114/UNTA-Nexus-V0.1.1-beta.zip",
-  "release_notes": "Pre-release - For UNTA Commanders."
+  "download_url": "https://github.com/Tiszr/UNTA-Nexus/releases/download/UNTA/UNTA-Nexus-v0.1.1-beta.exe",
+  "release_notes": "0.1.1-beta\n• Fixed Combat Tracker button\n• Fixed commander profile rank display\n• Removed dev test buttons\n• Improved ship name formatting"
 }
