@@ -1,5 +1,5 @@
 {
-  "latest_version": "0.1.1-beta",
+  "latest_version": "0.1.2-beta",
   "download_url": "https://github.com/Tiszr/UNTA-Nexus/releases/download/UNTA/UNTA-Nexus-v0.1.1-beta.exe",
-  "release_notes": "0.1.1-beta\n• Fixed Combat Tracker button\n• Fixed commander profile rank display\n• Removed dev test buttons\n• Improved ship name formatting"
+  "release_notes": ""0.1.2-beta Hotfix\n• Fixed massacre missions being counted as rescue passengers\n• Fixed cargo count desync / double-counting\n• Improved cargo handling accuracy"
 }
